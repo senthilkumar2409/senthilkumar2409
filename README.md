@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋 I'm Senthilkumar </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=palakbhawsar98&label=Profile%20views&color=0e75b6&style=flat" alt="palakbhawsar98" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=senthilkumar2409&label=Profile%20views&color=0e75b6&style=flat" alt="senthilkumar2409" /> </p>
 
 - 💻 I’m currently learning **Kubernetes**
 
