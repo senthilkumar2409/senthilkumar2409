@@ -12,9 +12,9 @@
 
 - 📫 How to reach me **senthilk24091999@gmail.com**
   
-- 📄 Some of my projects and learnings:
+### - 📄 Some of my projects and learnings:
 
-### My latest blog posts
+<!--
 <!-- BLOG-POST-LIST:START -->
 - [CI/CD pipeline for Terraform Project](https://palak-bhawsar.hashnode.dev/cicd-pipeline-for-terraform-project)
 - [Monitoring AWS Services Using CloudWatch](https://palak-bhawsar.hashnode.dev/monitoring-aws-services-using-cloudwatch)
@@ -22,6 +22,7 @@
 - [S3 Event-Driven Email Notifications using AWS Lambda and SQS](https://palak-bhawsar.hashnode.dev/s3-event-driven-email-notifications-using-aws-lambda-and-sqs)
 - [Automated CI/CD pipeline for Java Project](https://palak-bhawsar.hashnode.dev/automated-cicd-pipeline-for-java-project)
 <!-- BLOG-POST-LIST:END -->
+-->
 
 <!-- [![Senthilkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=senthilkumar2409)](https://github.com/senthilkumar2409/github-readme-stats) -->
 
