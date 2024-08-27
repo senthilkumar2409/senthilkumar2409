@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **senthilk24091999@gmail.com**
   
-### - 📄 Some of my projects and learnings:
+### * Some of my projects and learnings:
 
 
 <!-- BLOG-POST-LIST:START -->
