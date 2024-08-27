@@ -29,7 +29,7 @@
 - [Automated CI/CD pipeline for Java Project](https://palak-bhawsar.hashnode.dev/automated-cicd-pipeline-for-java-project)
 <!-- BLOG-POST-LIST:END -->
 
-[![Senthilkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=senthilkumar2409)](https://github.com/senthilkumar2409/github-readme-stats)
+<!-- [![Senthilkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=senthilkumar2409)](https://github.com/senthilkumar2409/github-readme-stats) -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=senthilkumar2409&show_icons=true&locale=en&layout=compact" alt="senthilkumar2409" /></p>
 
