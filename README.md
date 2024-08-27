@@ -1,5 +1,4 @@
 
-![imagegit](https://user-images.githubusercontent.com/69889600/193552218-0ebf9961-fe69-45bd-98bc-c29771758f59.png)
 
 <h1 align="center">Hey, I'm Senthilkumar </h1>
 
