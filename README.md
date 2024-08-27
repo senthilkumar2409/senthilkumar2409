@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hey, I'm Senthilkumar </h1>
+<h1 align="center">Hi 👋 I'm Senthilkumar </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palakbhawsar98&label=Profile%20views&color=0e75b6&style=flat" alt="palakbhawsar98" /> </p>
 
