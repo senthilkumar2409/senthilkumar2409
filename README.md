@@ -21,8 +21,7 @@
 - [Architect two tier Secure and Scalable AWS Infrastructure with Terraform](https://palak-bhawsar.hashnode.dev/architect-two-tier-secure-and-scalable-aws-infrastructure-with-terraform)
 - [S3 Event-Driven Email Notifications using AWS Lambda and SQS](https://palak-bhawsar.hashnode.dev/s3-event-driven-email-notifications-using-aws-lambda-and-sqs)
 - [Automated CI/CD pipeline for Java Project](https://palak-bhawsar.hashnode.dev/automated-cicd-pipeline-for-java-project)
-<!-- BLOG-POST-LIST:END -->
--->
+<!-- BLOG-POST-LIST:END --> -->
 
 <!-- [![Senthilkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=senthilkumar2409)](https://github.com/senthilkumar2409/github-readme-stats) -->
 
