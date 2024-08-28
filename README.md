@@ -14,8 +14,9 @@
 - **Some of my projects and learnings:**
   <!-- BLOG-POST-LIST:START -->
   ❋ [Automated EKS Cluster Deployment in AWS Cloud Using Terraform and Jenkins CI/CD Pipeline](https://github.com/senthilkumar2409/terraform-cicd-eks)
+  
   ❋ [Continuous Deployment of a Shopping Cart Application on EKS Using Jenkins CI/CD Pipeline](https://github.com/senthilkumar2409/Jenkins-CICD-pipeline)
-    <!-- BLOG-POST-LIST:END --> 
+  <!-- BLOG-POST-LIST:END --> 
 
 <!-- [![Senthilkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=senthilkumar2409)](https://github.com/senthilkumar2409/github-readme-stats) -->
 
