@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senthilkumar2409&label=Profile%20views&color=0e75b6&style=flat" alt="senthilkumar2409" /> </p>
 
-- 💻 I’m currently learning ⎈**Kubernetes**
+- 📚 I’m currently learning ⎈**Kubernetes**
 
 - 🤩 I’m looking to collaborate on **AWS and DevOps**
 
