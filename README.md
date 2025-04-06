@@ -4,7 +4,7 @@
 
 - 🤩 I’m looking to collaborate on **AWS and DevOps**
 
-- 💬 Ask me about **AWS, Terraform, Kubernetes, Helm, Docker, Jenkins, Linux, Bash**
+- 💬 Ask me about **AWS, Terraform, Kubernetes, Helm, Docker, Jenkins, ArgoCD,  Linux, Bash**
 
 - 📫 How to reach me **senthilk24091999@gmail.com**
   
